@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">notepad</string>
+    <string-array name="planets_array">
+        <item>All</item>
+        <item>Debit</item>
+        <item>Credit</item>
+    </string-array>
+
+</resources>
